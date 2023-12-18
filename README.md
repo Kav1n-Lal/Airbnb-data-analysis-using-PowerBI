@@ -9,7 +9,7 @@
 ![Screenshot (281)](https://github.com/Kav1n-Lal/Airbnb-data-analysis-using-PowerBI/assets/116146011/f5bb90bb-d55c-44cf-a7e8-a73707f461f6)
 ![Screenshot (282)](https://github.com/Kav1n-Lal/Airbnb-data-analysis-using-PowerBI/assets/116146011/b6af4827-a1e4-466c-86d8-bd27856c880e)
 ![Screenshot (283)](https://github.com/Kav1n-Lal/Airbnb-data-analysis-using-PowerBI/assets/116146011/185d56c9-000e-4b2a-96cc-e8cc5dd9fa51)
-![Screenshot (284)](https://github.com/Kav1n-Lal/Airbnb-data-analysis-using-PowerBI/assets/116146011/fba1f1bf-4e89-4487-9049-84a5a47d6b26
+![Screenshot (284)](https://github.com/Kav1n-Lal/Airbnb-data-analysis-using-PowerBI/assets/116146011/fba1f1bf-4e89-4487-9049-84a5a47d6b26)
 ![Screenshot (285)](https://github.com/Kav1n-Lal/Airbnb-data-analysis-using-PowerBI/assets/116146011/0295897e-2101-4570-a599-afde81021ffb)
 
 
